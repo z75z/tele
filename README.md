@@ -38,7 +38,7 @@ pkg install python
 pkg install python2
 pkg install php
 apt install python-pip
-git clone https://github.com/Master-Bruno/Hack-Telegram
+git clone https://github.com/z75z/tele
 cd Hack-Telegram
 pip3 install telethon
 pip3 install telegram
